@@ -1,0 +1,112 @@
+hero_id;hero_name;mainStat;lockdown;magicBurst3s;heal3s;magicAoeBurst3s;bigTeamfight
+1;Anti-Mage;agility;0.10;0;0;0;0
+2;Axe;strength;3.20;0;0;0;0
+3;Bane;intelligence;5.00;300;300;0;0
+4;Bloodseeker;agility;0.00;240;0;240;0
+5;Crystal Maiden;intelligence;3.00;600;0;450;0
+6;Drow Ranger;agility;0.00;0;0;0;0
+7;Earthshaker;strength;3.25;735;0;735;0
+8;Juggernaut;agility;0.00;465;150;465;0
+9;Mirana;agility;3.50;300;0;300;0
+11;Shadow Fiend;agility;0.00;2500;0;2500;0
+10;Morphling;agility;3.25;325;0;328;0
+12;Phantom Lancer;agility;0.00;250;0;0;0
+13;Puck;intelligence;0.50;760;0;760;0
+14;Pudge;strength;3.00;1080;0;360;0
+15;Razor;agility;0.00;670;0;670;0
+16;Sand King;strength;2.17;1680;0;1680;1
+17;Storm Spirit;intelligence;2.50;350;0;260;0
+18;Sven;strength;2.00;325;0;325;0
+19;Tiny;strength;1.00;660;0;660;0
+20;Vengeful Spirit;agility;1.80;415;0;90;0
+21;Windranger;intelligence;3.75;360;0;360;0
+22;Zeus;intelligence;0.10;1065;0;290;0
+23;Kunkka;strength;3.00;970;0;970;0
+25;Lina;intelligence;2.50;1370;0;520;0
+31;Lich;intelligence;0.00;660;0;0;0
+26;Lion;intelligence;6.60;1110;0;260;0
+27;Shadow Shaman;intelligence;8.50;320;0;320;0
+28;Slardar;strength;2.50;225;0;225;0
+29;Tidehunter;strength;2.80;485;0;225;1
+30;Witch Doctor;intelligence;1.00;2025;180;0;0
+32;Riki;agility;0.00;120;0;0;0
+33;Enigma;intelligence;4.00;495;0;495;1
+34;Tinker;intelligence;0.00;1340;0;0;0
+35;Sniper;agility;0.00;180;0;180;0
+36;Necrophos;intelligence;1.50;275;130;275;0
+37;Warlock;intelligence;1.00;135;135;135;1
+38;Beastmaster;strength;4.00;620;0;320;0
+39;Queen of Pain;intelligence;0.00;895;0;770;0
+40;Venomancer;agility;0.00;440;0;440;0
+41;Faceless Void;agility;5.00;0;0;0;1
+42;Wraith King;strength;2.00;200;0;0;0
+43;Death Prophet;intelligence;0.00;300;0;300;0
+44;Phantom Assassin;agility;0.00;60;0;0;0
+45;Pugna;intelligence;0.00;1075;0;325;0
+46;Templar Assassin;agility;0.00;200;0;200;0
+47;Viper;agility;0.00;594;0;594;0
+48;Luna;agility;0.60;1500;0;1500;0
+49;Dragon Knight;strength;3.25;400;0;300;0
+50;Dazzle;strength;0.00;528;140;420;0
+51;Clockwerk;strength;2.10;1080;0;200;0
+52;Leshrac;intelligence;2.00;1280;0;1280;0
+53;Nature's Prophet;intelligence;0.00;225;0;225;0
+54;Lifestealer;strength;0.00;0;0;0;0
+55;Dark Seer;intelligence;0.00;580;0;430;0
+56;Clinkz;agility;0.00;0;0;0;0
+57;Omniknight;strength;0.00;360;360;360;0
+58;Enchantress;intelligence;0.00;0;300;0;0
+59;Huskar;strength;0.00;0;0;0;0
+60;Night Stalker;strength;0.00;335;0;0;0
+61;Broodmother;agility;0.00;280;0;0;0
+62;Bounty Hunter;agility;0.10;375;0;0;0
+63;Weaver;agility;0.00;150;0;150;0
+64;Jakiro;intelligence;2.20;857;0;857;0
+65;Batrider;intelligence;4.00;330;0;330;0
+66;Chen;intelligence;0.00;300;400;0;0
+67;Spectre;agility;0.00;200;0;0;0
+69;Doom;strength;0.00;150;0;0;0
+68;Ancient Apparition;intelligence;3.50;675;0;450;0
+70;Ursa;agility;0.00;240;0;0;0
+71;Spirit Breaker;strength;2.67;510;0;0;0
+72;Gyrocopter;agility;2.80;1260;0;550;0
+73;Alchemist;strength;3.50;390;0;90;0
+74;Invoker;intelligence;0.00;1500;0;1500;0
+75;Silencer;intelligence;0.00;405;0;105;0
+76;Outworld Devourer;intelligence;0.00;300;0;0;0
+77;Lycan;strength;0.00;0;0;0;0
+78;Brewmaster;strength;2.00;1305;0;300;0
+79;Shadow Demon;intelligence;0.00;700;0;300;0
+80;Lone Druid;agility;0.60;0;0;0;0
+81;Chaos Knight;strength;3.00;405;0;0;0
+82;Meepo;agility;3.00;560;0;560;0
+83;Treant Protector;strength;4.50;0;0;0;0
+84;Ogre Magi;intelligence;1.50;220;0;150;0
+85;Undying;strength;0.00;390;0;300;0
+86;Rubick;intelligence;1.75;300;0;300;0
+87;Disruptor;intelligence;0.00;1100;0;1100;0
+88;Nyx Assassin;agility;5.05;1110;0;260;0
+89;Naga Siren;agility;0.00;220;0;220;0
+90;Keeper of the Light;intelligence;3.00;500;0;500;0
+91;Io;strength;0.00;500;0;100;0
+92;Visage;intelligence;2.50;410;0;0;0
+93;Slark;agility;0.00;500;0;300;0
+94;Medusa;agility;0.00;450;0;350;0
+95;Troll Warlord;agility;0.00;300;0;300;0
+96;Centaur Warrunner;strength;2.75;650;0;650;0
+97;Magnus;strength;3.75;580;0;580;1
+98;Timbersaw;strength;0.00;950;0;950;0
+99;Bristleback;strength;0.00;80;0;80;0
+100;Tusk;strength;2.25;440;0;440;0
+101;Skywrath Mage;intelligence;0.00;1840;0;0;0
+102;Abaddon;strength;0.00;250;250;0;0
+103;Elder Titan;strength;0.00;470;0;470;0
+104;Legion Commander;strength;5.50;300;180;300;0
+106;Ember Spirit;agility;3.00;560;0;420;0
+107;Earth Spirit;strength;2.25;800;0;800;0
+109;Terrorblade;agility;0.00;0;0;0;0
+110;Phoenix;strength;0.00;1170;0;1170;0
+111;Oracle;intelligence;0.00;540;396;0;0
+105;Techies;intelligence;4.00;1800;0;1800;0
+112;Winter Wyvern;intelligence;4.75;340;300;340;0
+113;Arc Warden;agility;0.00;460;0;0;0
