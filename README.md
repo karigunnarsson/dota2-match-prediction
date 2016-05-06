@@ -1,0 +1,9 @@
+# Predicting DoTA2 match outcomes based on draft
+
+Using the YASP data dump, I'm attempting to predict the outcome of games based on the team composition. Rather than simply assigning variables to each hero name, i wanted to try and capture what each hero brings to the table through a series of variables, that i could then map each hero up to, and eventually sum up for the entire team.
+
+Original thought was to create a map of each heroes "power curve" so to say, that is, when each hero is most powerful. For example we intuitively know that Undying is very strong early, but falls off mid-game, while someone like PA may be weak in the laning phase, but comes online if she can make it into the late game. We also know that you can't be too top heavy, (5 lategame carries), or you will fail to reach the lategame. But could this be quantified somehow?
+
+My attempt at this is to look at 50.000 games from the YASP data dump, and calculate the average number of kills the hero has at each 10 minute interval (i cut it off at 60 minutes). As expected we see peaks for different heroes at different times, and the thought is, if we sum all these power peaks together, we get a "power graph" for a team, that could potentially be used to predict matches. For example would a lineup that is extremely mid-game heavy on average have a high winning percentage against a team with an extremely late game loaded powercurve?
+
+On top of this i've attempted to bring other variables into play, i calculate the average tower damage each hero does, to have a variable also that quantifies how much the team pushes, and i also map out the total 3S burst a team has, and 3S heal (this is not done great, since a lot of heroes don't have static damage or heal numbers). On top of that, i've also mapped total lockdown on the team (counting hard disables, that is hex and stuns).
